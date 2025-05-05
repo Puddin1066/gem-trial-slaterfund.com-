@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "GEM Trial Content - Iteration 13",
-  "description": "Here is an optimized content piece for the Slater Fund website:\n\nEmpowering Providence's Entrepreneurial Spirit: How the Slater Fund is Transforming Local Busin",
+  "description": "Here is some optimized content for the Slater Fund website (https://slaterfund.com/):\n\nRevitalizing Providence's Entrepreneurial Spirit: The Slater Fund's Impac",
   "author": {
     "@type": "Organization",
     "name": "GEM Trial"
@@ -15,7 +15,7 @@
       "url": "https://example.com/logo.png"
     }
   },
-  "datePublished": "2025-05-04T23:27:35.652879",
+  "datePublished": "2025-05-04T23:31:37.020309",
   "keywords": [
     "GEM",
     " trial",
